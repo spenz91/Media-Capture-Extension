@@ -43,7 +43,3 @@ Contributions are welcome! If you’d like to contribute to this project, feel f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Support
-
-If you have any questions or need support, please contact us at [support@example.com](mailto:support@example.com).
