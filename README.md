@@ -8,7 +8,9 @@
 - **Download Media Files**: Download intercepted media files directly to your device for offline access.
 - **User-Friendly**: Simple interface for easy use, making media capturing accessible for everyone.
 
-![Alt text](https://i.ibb.co/26PLBCX/2024-11-14-16-28-20-apache-cordova-plugin-media-capture-Apache-Cordova-Media-Capture-Plugin.png)
+<p align="center">
+    <img width="300" src="https://i.ibb.co/26PLBCX/2024-11-14-16-28-20-apache-cordova-plugin-media-capture-Apache-Cordova-Media-Capture-Plugin.png" alt="Material Bread logo">
+</p>
 
 ## Installation
 
