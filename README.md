@@ -34,7 +34,7 @@ This extension requires certain permissions to function properly:
 
 ## Privacy Policy
 
-Media Capture Extension is designed with user privacy in mind. No personal data is collected, stored, or shared with third parties. For more details, please refer to the [Privacy Policy](https://www.freeprivacypolicy.com/live/9373a0c6-754a-4147-afeb-79e3eceb4728).
+Media Capture Extension is designed with user privacy in mind. No personal data is collected, stored, or shared with third parties. For more details, please refer to the [Privacy Policy](https://www.termsfeed.com/live/98268c55-4005-4b75-9969-6ce95e79eb4e).
 
 ## Contributing
 
