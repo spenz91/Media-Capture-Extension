@@ -34,7 +34,7 @@ This extension requires certain permissions to function properly:
 
 ## Privacy Policy
 
-Media Capture Extension is designed with user privacy in mind. No personal data is collected, stored, or shared with third parties. For more details, please refer to the [Privacy Policy](https://example.com/privacy).
+Media Capture Extension is designed with user privacy in mind. No personal data is collected, stored, or shared with third parties. For more details, please refer to the [Privacy Policy](https://www.freeprivacypolicy.com/live/9373a0c6-754a-4147-afeb-79e3eceb4728).
 
 ## Contributing
 
@@ -42,4 +42,4 @@ Contributions are welcome! If you’d like to contribute to this project, feel f
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://mit-license.org/) file for more details.
