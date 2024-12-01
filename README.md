@@ -15,7 +15,7 @@
 ## Installation
 
 1. **Download the Extension**:
-   - Clone or download the repository from GitHub.
+   - Clone or download the repository from GitHub or [LINK](https://chromewebstore.google.com/detail/media-capture-extension/fjeifmfdhliamofjajllhichjklacadl)
    
 2. **Load into Chrome**:
    - Open Chrome and navigate to `chrome://extensions/`.
